@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Jack  
 
 🚀 **DevOps & Cloud Engineer**  
-☁️ AWS | Docker | Jenkins | Terraform | Kubernetes  
+☁️ AWS | Docker | Jenkins | Terraform | Kubernetes 
+
+
+🌐 **Portfolio:** https://jacksamson1503.github.io/DevOps_Portfolio/  
 
 ---
 
@@ -31,7 +34,7 @@
 ### 🏗️ Terraform Static Website (S3)
 🔗 https://github.com/jacksamson1503/terraform-aws-s3-static-website
 
-### AWS-Load Balancer
+### 🌐 AWS-Load Balancer
 🔗 https://github.com/jacksamson1503/Jack_AWS_Loadbalancer.git
 
 ---
