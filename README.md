@@ -31,6 +31,9 @@
 ### 🏗️ Terraform Static Website (S3)
 🔗 https://github.com/jacksamson1503/terraform-aws-s3-static-website
 
+### AWS-Load Balancer
+🔗 https://github.com/jacksamson1503/Jack_AWS_Loadbalancer.git
+
 ---
 
 ## 📊 GitHub Stats
