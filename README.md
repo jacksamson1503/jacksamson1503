@@ -16,20 +16,20 @@
 
 ## 🔥 My Top Projects
 
+### 🧑‍💻 End-to-End DevOps Project (CI/CD + AWS + Docker)
+🔗 https://github.com/jacksamson1503/Devops_Project_End_to_End.git
+
 ### 🚀 CI/CD Pipeline (Jenkins + AWS)
-👉 [View Project](https://github.com/jacksamson1503/CI-CD-Login-Portal-with-Jenkins-on-AWS)
+🔗 https://github.com/jacksamson1503/CI-CD-Login-Portal-with-Jenkins-on-AWS
 
 ### ☁️ AWS Auto Scaling Project
-👉 [View Project](https://github.com/jacksamson1503/AWS_Auto-Scaling)
+🔗 https://github.com/jacksamson1503/AWS_Auto-Scaling
 
 ### ⚙️ Jenkins CI/CD Pipeline
-👉 [View Project](https://github.com/jacksamson1503/Jenkins-CI-CD)
+🔗 https://github.com/jacksamson1503/Jenkins-CI-CD
 
 ### 🏗️ Terraform Static Website (S3)
-👉 [View Project](https://github.com/jacksamson1503/terraform-aws-s3-static-website)
-
-### 📦 DevOps Portfolio Project
-👉 [View Project](https://github.com/jacksamson1503/DevOps_Portfolio)
+🔗 https://github.com/jacksamson1503/terraform-aws-s3-static-website
 
 ---
 
