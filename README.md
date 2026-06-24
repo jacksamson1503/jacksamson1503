@@ -19,9 +19,6 @@
 
 ## 🔥 My Top Projects
 
-### 🧑‍💻 End-to-End DevOps Project (CI/CD + AWS + Docker)
-🔗 https://github.com/jacksamson1503/Devops_Project_End_to_End.git
-
 ### 🚀 CI/CD Pipeline (Jenkins + AWS)
 🔗 https://github.com/jacksamson1503/CI-CD-Login-Portal-with-Jenkins-on-AWS
 
@@ -34,8 +31,12 @@
 ### 🏗️ Terraform Static Website (S3)
 🔗 https://github.com/jacksamson1503/terraform-aws-s3-static-website
 
-### 🌐 AWS-Load Balancer
+### 🌐 AWS Load Balancer
 🔗 https://github.com/jacksamson1503/Jack_AWS_Loadbalancer.git
+
+### Prometheus-Grafana-Monitoring-on-AWS-EC2
+🔗 https://github.com/jacksamson1503/Prometheus-Grafana-Monitoring-on-AWS-EC2.git
+
 
 ---
 
