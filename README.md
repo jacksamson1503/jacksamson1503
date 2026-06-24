@@ -22,21 +22,20 @@
 ### 🚀 CI/CD Pipeline (Jenkins + AWS)
 🔗 https://github.com/jacksamson1503/CI-CD-Login-Portal-with-Jenkins-on-AWS
 
+### 📊 Prometheus-Grafana-Monitoring-on-AWS-EC2
+🔗 https://github.com/jacksamson1503/Prometheus-Grafana-Monitoring-on-AWS-EC2.git
+
 ### ☁️ AWS Auto Scaling Project
 🔗 https://github.com/jacksamson1503/AWS_Auto-Scaling
-
-### ⚙️ Jenkins CI/CD Pipeline
-🔗 https://github.com/jacksamson1503/Jenkins-CI-CD
-
-### 🏗️ Terraform Static Website (S3)
-🔗 https://github.com/jacksamson1503/terraform-aws-s3-static-website
 
 ### 🌐 AWS Load Balancer
 🔗 https://github.com/jacksamson1503/Jack_AWS_Loadbalancer.git
 
-### Prometheus-Grafana-Monitoring-on-AWS-EC2
-🔗 https://github.com/jacksamson1503/Prometheus-Grafana-Monitoring-on-AWS-EC2.git
+### 🏗️ Terraform Static Website (S3)
+🔗 https://github.com/jacksamson1503/terraform-aws-s3-static-website
 
+### ⚙️ Jenkins CI/CD Pipeline
+🔗 https://github.com/jacksamson1503/Jenkins-CI-CD
 
 ---
 
@@ -48,4 +47,4 @@
 ---
 
 ## 📫 Connect with Me
-🔗 LinkedIn: https://linkedin.com/in/jack-samson-c-014260233
+🔗 LinkedIn: https://www.linkedin.com/in/jacksamson-devops/
