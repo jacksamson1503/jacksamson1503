@@ -59,12 +59,8 @@ General-purpose Jenkins pipeline template for continuous integration and deliver
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksamson1503&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksamson1503&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksamson1503&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jacksamson1503&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksamson1503&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 ---
