@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jack Samson
+# Hi, I'm Jack Samson
 
 ### DevOps • Cloud • Infrastructure Automation
 
