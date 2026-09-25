@@ -169,20 +169,6 @@ Configured highly available traffic distribution across multiple targets with he
 
 ---
 
-## 🗺 Learning Roadmap
-
-- [x] Linux Administration & Bash scripting
-- [x] Docker & Containerization
-- [x] Jenkins CI/CD pipelines
-- [x] Terraform basics & AWS provisioning
-- [x] Monitoring with Prometheus & Grafana
-- [ ] ☸️ Amazon EKS
-- [ ] ⛵ Helm Charts
-- [ ] 🔁 GitHub Actions (advanced workflows)
-- [ ] 🐙 Argo CD & GitOps
-- [ ] 🌐 Advanced Kubernetes Networking
-- [ ] 🔒 DevSecOps (Trivy, SonarQube)
-
 ---
 
 ## 📊 GitHub Analytics
