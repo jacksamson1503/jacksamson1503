@@ -188,13 +188,6 @@ Configured highly available traffic distribution across multiple targets with he
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/jacksamson1503/jacksamson1503/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
-> *Requires the `snake.yml` workflow (included) — see setup notes.*
 
 ---
 
