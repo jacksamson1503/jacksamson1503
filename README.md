@@ -169,8 +169,6 @@ Configured highly available traffic distribution across multiple targets with he
 
 ---
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -185,9 +183,6 @@ Configured highly available traffic distribution across multiple targets with he
 <img src="https://github-profile-trophy.vercel.app/?username=jacksamson1503&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 
 </div>
-
----
-
 
 ---
 
