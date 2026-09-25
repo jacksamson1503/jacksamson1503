@@ -25,7 +25,6 @@ name: Jack Samson
 role: Junior DevOps & Cloud Engineer
 focus: [CI/CD, Infrastructure as Code, Containers, Monitoring]
 cloud: AWS
-currently_learning: [Amazon EKS, Helm, Argo CD, GitHub Actions]
 open_to_work: true
 philosophy: "If you do it twice, automate it."
 ```
