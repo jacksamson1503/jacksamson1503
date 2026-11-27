@@ -1,11 +1,11 @@
-# Hi there, I'm Jack Samson C 👋
+# Hi there, I'm Jack Samson C 
 ### Cloud & DevOps Engineer | AWS • Kubernetes • GitOps • Terraform • CI/CD
 
-📍 **Bangalore, India** | 📧 [jacksamsonc@gmail.com](mailto:jacksamsonc@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/jacksamson-devops) | 🚀 **Status:** Immediate Joiner
+**Bangalore, India** |  [jacksamsonc@gmail.com](mailto:jacksamsonc@gmail.com) | [LinkedIn](https://linkedin.com/in/jacksamson-devops) | **Status:** Immediate Joiner
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 DevOps Engineer with hands-on experience building CI/CD workflows, deploying containerized applications on AWS and EC2-based environments, and implementing GitOps workflows with Argo CD. Focused on infrastructure automation using Terraform and AWS CloudFormation, container security, and observability with Prometheus and Grafana.
 
 ---
@@ -21,7 +21,7 @@ DevOps Engineer with hands-on experience building CI/CD workflows, deploying con
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | [**Enterprise GitOps & DevSecOps Platform**](https://github.com/jacksamson1503/Enterprise-gitops-devsecops-aws) | Kubernetes, Argo CD, AWS, Trivy, Prometheus, Grafana | GitOps-based application deployment with container security scanning and cluster observability. |
@@ -32,10 +32,10 @@ DevOps Engineer with hands-on experience building CI/CD workflows, deploying con
 
 ---
 
-### 📜 Certifications & Continuous Learning
+### Certifications & Continuous Learning
 - **Cloud Computing & DevOps Master Program** — Besant Technologies, Bangalore
 - **AWS Certified Solutions Architect / DevOps** — *In Progress*
 - **Enterprise Linux Administration & Shell Automation**
 
 ---
-⚡ *“Automate thoughtfully, secure early, and measure continuously.”*
+*“Automate thoughtfully, secure early, and measure continuously.”*
