@@ -26,7 +26,7 @@ DevOps Engineer with hands-on experience building CI/CD workflows, deploying con
 | :--- | :--- | :--- |
 | [**Enterprise GitOps & DevSecOps Platform**](https://github.com/jacksamson1503/Enterprise-gitops-devsecops-aws) | Kubernetes, Argo CD, AWS, Trivy, Prometheus, Grafana | GitOps-based application deployment with container security scanning and cluster observability. |
 | [**Blue/Green Deployment with Nginx and Docker**](https://github.com/jacksamson1503/blue-green-deployment-nginx-docker) | Nginx, Docker, AWS ECR, GitHub Actions, Bash | Blue/Green release workflow using reverse-proxy routing and health checks. |
-| [**Login Portal CI/CD Pipeline**](https://github.com/jacksamson1503/login-portal-cicd-github-actions-aws) | GitHub Actions, Docker, SonarQube, Trivy, AWS | CI/CD workflow with code-quality checks, container scanning, and AWS deployment. |
+| [**Login Portal CI/CD Pipeline**](https://github.com/jacksamson1503/CI-CD-Login-Portal-with-Jenkins-on-AWS) | GitHub Actions, Docker, SonarQube, Trivy, AWS | CI/CD workflow with code-quality checks, container scanning, and AWS deployment. |
 | [**Modular AWS Infrastructure as Code**](https://github.com/jacksamson1503/terraform-aws-s3-static-website) | Terraform, AWS S3, CloudFront, IAM | Terraform-based provisioning for an S3 static website and supporting AWS resources. |
 | [**Prometheus & Grafana Monitoring on AWS EC2**](https://github.com/jacksamson1503/Prometheus-Grafana-Monitoring-on-AWS-EC2) | Prometheus, Grafana, Node Exporter | Infrastructure metrics and dashboards for CPU, memory, disk, and system health. |
 
